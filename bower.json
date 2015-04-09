@@ -7,7 +7,7 @@
     "type": "git",
     "url": "git://github.com/mobiliseme/bower-froogaloop.git"
   },
-  "main": "froogaloop.min.js",
+  "main": "froogaloop.js",
   "ignore": [
     "LICENSE",
     "README.md",
